@@ -39,7 +39,7 @@ register_block_type( __DIR__ . '/build/blocks/blog-posts' );
 ## Usage
 
 1. In the WordPress editor, click the "+" button to add a new block
-2. Search for "Blog Posts Grid" or find it in the Widgets category
+2. Search for "Gb Blog" or find it in the Widgets category
 3. The block will be inserted with default settings
 4. Use the block toolbar and sidebar settings to customize the display
 
