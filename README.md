@@ -7,12 +7,9 @@ A beautiful and customizable WordPress Gutenberg block for displaying blog posts
 
 - 🎨 Modern, responsive grid layout
 - 📱 Mobile-friendly design
-- ⚡ Optimized performance
-- 🎯 SEO-friendly markup
 - 🔧 Highly customizable
 - 🖼️ Featured image support
 - 📝 Excerpt display with word limit
-- 🎭 Multiple display options
 
 ## Installation
 
