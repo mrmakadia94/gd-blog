@@ -33,7 +33,7 @@ A beautiful and customizable WordPress Gutenberg block for displaying blog posts
 
 2. Register the block in your theme or plugin:
 ```php
-register_block_type( __DIR__ . '/build/blocks/blog-posts' );
+register_block_type( __DIR__ . '/build/gb-block' );
 ```
 
 ## Usage
